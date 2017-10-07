@@ -1,0 +1,273 @@
+body {
+  font-size: 1.25em;
+  color: #3d3d3d;
+}
+
+li,
+a {
+  list-style-type: none;
+  width: 7.25em;
+  padding-top: 0.75em;
+  padding-left: 5em;
+  display: inline-block;
+}
+
+a:hover {
+  color: #3366ff;
+}
+
+.intro {
+  margin-left: 40%;
+}
+.kanjeg {
+  margin-left: 20%;
+}
+
+.hvorformeg {
+  margin-left: 50%;
+}
+
+.hvorfordere {
+  margin-left: 80%;
+}
+
+.utdanningen {
+  margin-left: 40%;
+}
+
+.pageone {
+  position: relative;
+}
+
+.hero {
+  width: 100%;
+  background-image: url("https://res.cloudinary.com/makingwaves/images/f_jpg,q_80,w_1920/udtgllfxcotui2xvmhp5/TopFrontpage.jpg")
+    no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.header {
+  position: relative;
+  color: white;
+  font-family: "Roboto Condensed", sans-serif;
+  text-align: center;
+  font-size: 6em;
+  position: absolute;
+  top: 160px;
+  padding-left: 8%;
+  padding-top: 0.7em;
+}
+
+.under-header {
+  font-size: 0.25em;
+  margin-top: 3%;
+}
+
+.button {
+  position: relative;
+  bottom: 5em;
+}
+.icon {
+  position: absolute;
+  left: 34em;
+  top: -2em;
+  color: white;
+}
+
+@keyframes bounce {
+  0%,
+  20%,
+  60%,
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+
+  40% {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+  }
+
+  80% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
+}
+
+.icon:hover {
+  color: white;
+  animation: bounce 2s;
+}
+
+.pillars {
+  margin-top: 20%;
+  font-size: 5em;
+  color: #4d4d4d;
+  font-family: "Roboto Condensed", sans-serif;
+  margin-left: 4%;
+  width: 825px;
+  height: 179px;
+}
+
+.pillarsimg img {
+  display: inline block;
+
+  width: 472px;
+  height: 314px;
+
+  margin-top: 5%;
+  margin-right: 10px;
+
+  margin-left: 8%;
+  border: 2px solid white;
+}
+
+.pillartext {
+  margin-top: 6%;
+  padding-left: 12%;
+  padding-right: 10%;
+  margin-right: 10px;
+}
+
+.fa-heart {
+  color: red;
+}
+
+.dette {
+  font-size: 5em;
+  color: #4d4d4d;
+  margin-top: 10%;
+  padding-top: 12%;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.kan {
+  font-size: 1em;
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.skill {
+  color: #3366ff;
+}
+
+.hvorfor {
+  text-align: center;
+  color: #4d4d4d;
+  font-size: 4em;
+  margin-top: 4%;
+  font-family: "Roboto Condensed", sans-serif;
+  color: #4d4d4d;
+  margin-top: 10%;
+}
+
+.meg {
+  text-align: center;
+  margin-top: 2%;
+  font-size: 1.2em;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.quote {
+  padding-left: 15%;
+  padding-right: 15%;
+  margin-top: 10%;
+  font-size: 1em;
+}
+
+.quote:hover {
+  color: #3366ff;
+  font-size: 1em;
+}
+
+.dere {
+  text-align: center;
+  margin-top: 2%;
+  font-size: 1.2em;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.mquote {
+  margin-top: 10%;
+
+  font-size: 1.2em;
+
+  margin-left: 20%;
+  margin-right: 10%;
+}
+
+.culture {
+  margin-right: 10%;
+  margin-left: 12%;
+  font-size: 1.2em;
+  margin-top: 10%;
+}
+
+.culture:hover {
+  color: #3366ff;
+}
+
+.mquote:hover {
+  color: #3366ff;
+}
+
+.utdanning {
+  margin-top: 20%;
+  font-size: 3em;
+  text-align: center;
+  color: #4d4d4d;
+  font-family: "Roboto Condensed", sans-serif;
+  line-height: 39px;
+}
+
+.brighton {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 1em;
+  text-align: center;
+  margin-top: 3%;
+  line-height: 39px;
+}
+
+.fag1,
+.fag2,
+.fag3,
+.fag4,
+.fag5,
+.fag6 {
+  color: #3366ff;
+}
+
+.sist {
+  margin-top: 5%;
+  margin-left: 10%;
+  width: 825px;
+  height: 179px;
+}
+
+.Portfolio {
+  width: 626px;
+  height: 540px;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+
+.fa-arrow-circle-o-right {
+  color: #06f;
+  margin-left: 5%;
+}
+
+#work {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#work:hover {
+  text-underline-position: under;
+  color: #3366ff;
+}
