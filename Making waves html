@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<META HTTP-EQUIV="Content-Language" content="NO"> 
+	<title>Making waves responsive</title>
+
+	<!-- Bootstrap.<-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="assets/css/making waves responsive.css">
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">
+		<script src="https://use.fontawesome.com/9ed8780212.js"></script>
+
+</head>
+<body>
+ 
+	<div class= "container-fluid">
+
+		 <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+		
+	<nav class="pills"> 
+
+			<li class="MW"> <a  target="_blank"  href="https://www.makingwaves.com/"> Making waves</a> </li>
+
+
+			<li class="col-lg-2 float-right" > <a class="utdanningen" href="#education"> Utdanning og portfolio</a> </li>
+
+			<li  class="col-lg-2 float-right"> <a class="kanjeg" href="#whyyou"> Hvorfor dere</a> </li>
+			<li  class="col-lg-2 float-right"> <a class="hvorformeg " href="#whyme"> Hvorfor meg?</a> </li>
+			 <li  class="col-lg-2 float-right"> <a class="hvorfordere"  href="#ican"> hva kan jeg?</a> </li>
+			<li  class="col-lg-2 float-right"> <a class="intro"  href="#start"> Introduksjon</a> </li>
+			
+		</nav>
+
+
+</div>
+
+</header>
+
+	<div class="pageone">
+	 <img class="hero" src="https://res.cloudinary.com/makingwaves/images/f_jpg,q_80,w_1920/udtgllfxcotui2xvmhp5/TopFrontpage.jpg" alt="header" >
+	</div> 
+
+<div> 
+</div>
+
+<div class="container-fluid">
+<h1 class="header">Grunner til å ansette meg  <p class="under-header">Teknologi sommerjobb 2018 </p> </h1>
+<span id="start">
+</div>
+
+
+	<div class="button">
+<div> <a class="icon" href="#start"> <i class="fa fa-chevron-circle-down fa-2x" aria-hidden="true"> </i> </a> 
+</div>
+</div>
+<div class="container-fluid">
+	
+<h2 class="pillars"> Pillars of an awesome employee</h2>
+</div>
+
+
+<div class="row">
+<div class="col-lg-6 col-sm-6"> 
+<div class="pillarsimg"> 
+<div class="thumbnail">	
+	<img src="front1.jpg" onmouseover="this.src='front2.jpg'" onmouseout="this.src='front1.jpg'">
+
+</div>
+</div>
+</div>
+<div class="col-lg-6 col-sm-6"> 
+<div> 
+<p class="pillartext"> 
+Hei! <br>
+Hei! 
+Jeg heter Rachid, Videre vil du finne ut hva jeg kan gi av meg selv for å gjøre Making waves sin kultur enda bedre ved hjelp av de tekniske ferdighetene mine, men samtidig også hva jeg kan gjøre for å løfte teamet mitt til å være den beste versjonen av seg selv, slik at vi kan effektivt kan jobbe mot det samla målet vi deler sammen. 
+<br>
+Design + Technology = <i class="fa fa-heart" aria-hidden="true"></i>
+</span>
+<span id="ican">
+</p>
+</div>
+</div>
+</div>
+
+
+
+
+<p class="dette"> Dette kan jeg. </p>
+<p class="kan">
+Jeg føler meg komfotabel og har god forståelse	 med <span class="skill">HTML</span>,<span class="skill">CSS</span>,<span class="skill">Bootstrap</span>,<span class="skill">JavaScript</span>, og <span class="skill">jQuery.</span>
+Videre ut gjennom skoleåret vil jeg fortsette å bli bedre i disse fundamentale byggebrikkene, men jeg vil også bevege meg mot andre interessante teknologier som: Angular, Node, Java og databaser som MySQL. Jeg vil aldri slutte å lære og jeg vil fortsette å bygge portfolioen på skolebenken<span id="whyme"> og på fritiden. Jeg er også mer enn villig til å ta utfordringen med å sette meg inn i rammeverk og bibliotek som dere anbefaler, slik at min tid hos dere blir brukt mest effektivt. 
+
+</p>
+</span>
+
+	
+<p class="hvorfor"> Hvorfor meg? </p>
+<p class="meg">
+Akkurat som dere elsker jeg det jeg gjør. Jeg føler meg begjæret over at jeg endelig har møtt en gruppe mennesker som deler samme tankegang og aspirasjoner som meg selv. Det er en glede å kunne ha muligheten til å gjøre verden til et mer kreativt sted enn det den var dagen før med dere. Bare tanken av å skape løsninger med dere gjør meg spent for hva morgendagen har i vente, og jeg er overbevist om at det er ingen grenser for hva vi kan skape sammen.
+</p>
+
+</span>
+
+<div class="quote">
+ <span> <i class="fa fa-quote-right" aria-hidden="true"></i>
+.. Rachid embraced his emergence into a brand new and foreign culture, learned ably on the go and was a strong thinker who saw his role both from inside and out of the box.<span id=whyyou> 
+He showed a strong desire to achieve and do a good job and was a young man of good character.<i class="fa fa-quote-left" aria-hidden="true"></i> <br>&mdash; Andy Lilienthal,Camp director.
+ 
+
+</span>
+ </div>
+
+
+
+
+
+<p class="hvorfor"> Hvorfor dere? </p>
+<p class="dere">
+
+jeg vet at sammen kan vi skape vakker, smidig og nyskapende UI, men også levere innovativ og banebrytende funksjonalitet. 
+Kulturen i Making waves er en kultur jeg helt klart ser meg selv i, men aller viktigst er det en kultur med en tankegang jeg støtter fult ut.
+Sammen kan hver enkelt av oss bidra med å gjøre felleskapet i Making waves enda bedre gjennom støttende og åpen kommunikasjon.
+
+</p>
+</span>
+
+
+<div class="row">
+    <div class="col-xs-6">
+
+      <div class="mquote">
+      <span> <i class="fa fa-quote-right" aria-hidden="true"></i> </span>
+      We want everyone to be pushing <br>themselves to be the best they can be, and we make this a priority.<i class="fa fa-quote-left" aria-hidden="true"></i> 
+<span id="education">
+        </div>
+    </div>
+    <div class="col-xs-6">
+     <div class="culture">
+     	<i class="fa fa-quote-right" aria-hidden="true"> </i>
+     	We believe that our work should have integrity, and we all have <br> a sense of purpose in what we create together.<i class="fa fa-quote-left" aria-hidden="true"></i> 
+
+      
+        </div>
+    </div>
+  </div>
+</div>
+
+
+<h2 class="utdanning"> Utdanning </h2>
+
+<p class="brighton"> Jeg studerer fra og med september 2017 (BCs) digital media development i universitetet i Brighton.
+Men jeg klarte ikke å vente med å lære mer om utvikling og design.
+Av den grunn har jeg lært alt dere ser her og i portfolioen min gjennom mange ressurser på nett noen eksempler er freecodecamp, Codeschool, og Stackoverflow.
+Jeg gleder meg til å bruke min faglige utvikling i relevante problemstillinger som hjelper til å skape noe nytt, eller forberede noe som allerede eksiterer, i tillegg får jeg gleden av å gjøre dette med mennesker som tenker likt som meg, men også få nye perspektiver og ideer fra mennesker som tenker annerledes enn meg selv.
+Dette er noen emner  jeg skal gå gjennom ut gjennom skoleåret, som kan være nyttig for min rolle til sommeren hos Making waves:
+ <span class="fag1">Design for digital media</span> , <span class="fag2">Human-computer interaction</span> ,<br>
+ <span class="fag3">Programming </span>,<span class="fag4"> Working in digital industries</span>,<br> <span class="fag5">introduction to databases</span> og <span class="fag6">web development. </span> 
+</div> 
+</span> 
+
+
+<h2 class="utdanning">Portfolio</h2>
+
+<div class="row">
+    <div class="col-xs-6">
+      <p class="sist"> 
+     Jeg er absolutt sikker på at med vår arbeidsetikk, kultur og tankegang kan vi være med å forme teknologibølgen som er foran oss.
+Det er ingen tvil om at sammen kan vi skape løsninger som inspirer for personer som deg, meg og aller viktigst klientene våre.
+      	<br> 
+    		kontaktinformasjon: 
+Rach@live.no
+      </p>
+    </div>
+    <div class="col-xs-6">
+    <p class="Portfolio"> 
+    		<span id="work" onclick="location.href='https://github.com/rachidallal?tab=repositories';"> <u>See more of my work! </u><i class="fa fa-arrow-circle-o-right fa-2x" aria-hidden="true"></i></span> 
+    </p>	
+     
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+<script type="text/javascript" src = "assets/js/lib/jquery-3.2.1.min.js"></script>
+	<script type="text/javascript" src= "assets/js/making waves responsive.js"></script>
+</body>
+</html>
+
