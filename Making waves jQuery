@@ -1,0 +1,13 @@
+$(document).ready(function() {
+  $(window).on("scroll", function() {
+    var wn = $(window).scrollTop();
+    if (wn > 120) {
+      $(".navbar").css("background", "white"),
+        $("li a").css("color", "black"),
+        $("li a").hover("color", "blue");
+    } else {
+      $(".navbar").css("background", "transparent"),
+        $("li a ").css("color", "white");
+    }
+  });
+});
