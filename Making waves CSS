@@ -1,8 +1,9 @@
 body {
   font-size: 1.25em;
   color: #3d3d3d;
+  /* setter farge og tekst default.*/ 
 }
-
+/* navbar*/
 li,
 a {
   list-style-type: none;
@@ -15,6 +16,7 @@ a {
 a:hover {
   color: #3366ff;
 }
+
 
 .intro {
   margin-left: 40%;
@@ -39,6 +41,7 @@ a:hover {
   position: relative;
 }
 
+/* hovedbildet */
 .hero {
   width: 100%;
   background-image: url("https://res.cloudinary.com/makingwaves/images/f_jpg,q_80,w_1920/udtgllfxcotui2xvmhp5/TopFrontpage.jpg")
@@ -74,6 +77,7 @@ a:hover {
   top: -2em;
   color: white;
 }
+/* button */
 
 @keyframes bounce {
   0%,
@@ -100,6 +104,7 @@ a:hover {
   animation: bounce 2s;
 }
 
+/* intro  */
 .pillars {
   margin-top: 20%;
   font-size: 5em;
@@ -134,6 +139,7 @@ a:hover {
   color: red;
 }
 
+/* dette kan jeg */
 .dette {
   font-size: 5em;
   color: #4d4d4d;
@@ -154,6 +160,7 @@ a:hover {
   color: #3366ff;
 }
 
+/* Hvorfor meg?*/
 .hvorfor {
   text-align: center;
   color: #4d4d4d;
@@ -172,6 +179,7 @@ a:hover {
   margin-right: 10%;
 }
 
+/* arbeidsgiver tekst */
 .quote {
   padding-left: 15%;
   padding-right: 15%;
@@ -184,6 +192,7 @@ a:hover {
   font-size: 1em;
 }
 
+/* hvorfor dere? */
 .dere {
   text-align: center;
   margin-top: 2%;
@@ -192,6 +201,7 @@ a:hover {
   margin-right: 10%;
 }
 
+/* quote fra dere */
 .mquote {
   margin-top: 10%;
 
@@ -216,6 +226,8 @@ a:hover {
   color: #3366ff;
 }
 
+/* utdanning */
+
 .utdanning {
   margin-top: 20%;
   font-size: 3em;
@@ -234,15 +246,12 @@ a:hover {
   line-height: 39px;
 }
 
-.fag1,
-.fag2,
-.fag3,
-.fag4,
-.fag5,
+
 .fag6 {
   color: #3366ff;
 }
 
+/* siste ordet */
 .sist {
   margin-top: 5%;
   margin-left: 10%;
@@ -256,7 +265,7 @@ a:hover {
   margin-left: 20%;
   margin-top: 5%;
 }
-
+/* GitHub */
 .fa-arrow-circle-o-right {
   color: #06f;
   margin-left: 5%;
