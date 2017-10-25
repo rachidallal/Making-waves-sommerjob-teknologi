@@ -97,7 +97,7 @@ Design + Technology = <i class="fa fa-heart" aria-hidden="true"></i>
 <p class="dette"> Dette kan jeg. </p>
 <p class="kan">
 Jeg føler meg komfotabel og har god forståelse med <span class="skill">HTML</span>,<span class="skill">CSS</span>,<span class="skill">Bootstrap</span>,<span class="skill">JavaScript</span>, og <span class="skill">jQuery.</span>
-Videre ut gjennom skoleåret vil jeg fortsette å bli bedre i disse fundamentale byggebrikkene, men jeg vil også bevege meg mot andre interessante teknologier som: Angular og databaser som Microsoft SQL. Jeg har også erfaring med web design prinsipper, konvensjoner og programmer som Photoshop,illustrator og Indesign.Jeg vil aldri slutte å lære og jeg vil fortsette å bygge portfolioen på skolebenken<span id="whyme"> og på fritiden. Jeg er også mer enn villig til å ta utfordringen med å sette meg inn i rammeverk og bibliotek som dere anbefaler, slik at min tid hos dere blir brukt på den mest effektive måten. <br> 
+Videre ut gjennom skoleåret vil jeg fortsette å bli bedre i disse fundamentale byggebrikkene, men jeg vil også bevege meg mot andre interessante teknologier som: Angular og databaser som Microsoft SQL. Jeg har også erfaring med web design prinsipper, konvensjoner og programmer som Photoshop,Illustrator og Indesign.Jeg vil aldri slutte å lære og jeg vil fortsette å bygge portfolioen på skolebenken<span id="whyme"> og på fritiden. Jeg er også mer enn villig til å ta utfordringen med å sette meg inn i rammeverk og bibliotek som dere anbefaler, slik at min tid hos dere blir brukt på den mest effektive måten. <br> 
 Jeg tenker at min rolle i Making waves vil passe best i en utvikler posisjon, men jeg har også et godt øye for design, noe som gjør at jeg gjerne kan bidra der dere trenger meg mest. 
 
 </p>
@@ -177,7 +177,7 @@ Dette er noen emner  jeg skal gå gjennom ut gjennom skoleåret, som kan være n
 Det er ingen tvil om at sammen kan vi skape løsninger som inspirer for personer som deg, meg og aller viktigst klientene våre.
       	<br> 
     		kontaktinformasjon: 
-Rach@live.no
+rachidallal1996@gmail.com
       </p>
     </div>
     <div class="col-xs-6">
@@ -188,7 +188,7 @@ Rach@live.no
     		<span id="work" onclick="location.href='http://itsuite.it.brighton.ac.uk/ra437/portfolio/photoGrid/photo%20grid.html';"> <u> Photo grid </u></span>
     		<br> 
     		<span id="work" onclick="location.href='http://itsuite.it.brighton.ac.uk/ra437/portfolio/Todolist/todo.html';"> <u> Todo list </u> </span>
-		
+
 
     </p>	
      
@@ -202,7 +202,5 @@ Rach@live.no
 	<script type="text/javascript" src= "assets/js/making waves responsive.js"></script>
 </body>
 </html>
-
-
 
 
