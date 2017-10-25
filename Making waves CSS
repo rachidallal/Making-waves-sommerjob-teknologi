@@ -204,9 +204,7 @@ a:hover {
 /* quote fra dere */
 .mquote {
   margin-top: 10%;
-
   font-size: 1.2em;
-
   margin-left: 20%;
   margin-right: 10%;
 }
@@ -265,11 +263,7 @@ a:hover {
   margin-left: 20%;
   margin-top: 5%;
 }
-/* GitHub */
-.fa-arrow-circle-o-right {
-  color: #06f;
-  margin-left: 5%;
-}
+
 
 #work {
   text-decoration: underline;
@@ -280,3 +274,5 @@ a:hover {
   text-underline-position: under;
   color: #3366ff;
 }
+
+
